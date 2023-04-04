@@ -1,0 +1,13 @@
+.todo_container {
+    background-color: black;
+    width: 90vw;
+    margin: 10em auto;
+    border-radius: 20px;
+    padding: 20px;
+    color: azure;
+}
+.header{
+    font-size: 3em;
+    text-align: center;
+    
+}
